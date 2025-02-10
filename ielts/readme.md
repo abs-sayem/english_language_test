@@ -21,16 +21,25 @@
 
 ### **Raw Score vs Band Score**
 #### **For Reading and Listening**
-        <table >
-            <tr>
-                <th>Raw Score</th>
-                <th>Band Score</th>
-            </tr>
-            <tr><td>40</td><td>9</td></tr>
-            <tr><td>37-38</td><td>8</td></tr>
-            <tr><td>34-35</td><td>7</td></tr>
-            <tr><td>30-31</td><td>6</td></tr>
-            <tr><td>23-26</td><td>5</td></tr>
-            <tr><td>15-18</td><td>4</td></tr>
-            <tr><td>9-11</td><td>3</td></tr>
-        </table>
+<table >
+    <tr>
+        <th>Raw Score</th>
+        <th>40</th>
+        <th>37-38</th>
+        <th>34-35</th>
+        <th>30-31</th>
+        <th>23-26</th>
+        <th>15-18</th>
+        <th>9-11</th>
+    </tr>
+    <tr>
+        <td>Band Score</td>
+        <td>9</td>
+        <td>8</td>
+        <td>7</td>
+        <td>6</td>
+        <td>5</td>
+        <td>4</td>
+        <td>3</td>
+    </tr>
+</table>

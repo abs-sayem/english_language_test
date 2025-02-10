@@ -43,3 +43,9 @@
         <td>3</td>
     </tr>
 </table>
+
+#### **For Writing and Speaking:** The band score of writing and speaking depends on 4 important pointers-
+- **Grammartical Range**
+- **Punctuation** (for writing), **Pronunciation** (for speaking)
+- **Correlation-Coherence** (for writing), **Fluency** (for speaking)
+- **Laxical Resources (Vocabulary)**

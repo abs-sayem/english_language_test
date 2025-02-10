@@ -16,7 +16,7 @@
 	2. grammatical Range and Accuracy
 	3. pronunciation
 	4. lexical Resource - Vocabulary
-> find out my strong and weak points and work on that
-> practice, practice, practice
+- find out the strong and weak points and work on those
+- practice, practice, practice
 
 #### **Raw Score vs Band Score**

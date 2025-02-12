@@ -7,19 +7,19 @@
 4. **Speaking**
 
 ### **Know the Test Well**
-- know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
-- know the marks distribution - which sub-part contains how much marks
-- band score vs raw score - ?/9 : ?/40
-- know the question patterns of the parts - what types of questions will be given and how the marks will be distributed
+- Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
+- Know the marks distribution - which sub-part contains how much marks
+- Band score vs raw score - ?/9 : ?/40
+- Know the question patterns of the parts - what types of questions will be given and how the marks will be distributed
 - For Example - for speaking the marks are distributed on 4 things:
-	1. fluency and Coherence: Fluency is can I talk without having long pause and buzz words and Coherence is the relation between the sentences - are they related or we just jumps here and there.
-	2. grammatical Range and Accuracy
-	3. pronunciation
-	4. lexical Resource - Vocabulary
-- find out the strong and weak points and work on those
-- practice, practice, practice
+	1. Fluency and Coherence: Fluency is can I talk without having long pause and buzz words and Coherence is the relation between the sentences - are they related or we just jumps here and there.
+	2. Grammatical Range and Accuracy
+	3. Pronunciation
+	4. Lexical Resource - Vocabulary
+- Find out the strong and weak points and work on those
+- Practice, practice, practice
 
-### **Raw Score vs Band Score**
+### **Raw Score vs Band Score (Accademic)**
 #### **For Reading and Listening**
 <table >
     <tr>
@@ -31,16 +31,20 @@
         <th>30-32</th>
         <th>27-29</th>
         <th>23-26</th>
+        <th>19-22</th>
+        <th>15-18</th>
     </tr>
     <tr>
         <td>Band Score</td>
-        <td>9</td>
+        <td>9.0</td>
         <td>8.5</td>
-        <td>8</td>
+        <td>8.0</td>
         <td>7.5</td>
-        <td>7</td>
+        <td>7.0</td>
         <td>6.5</td>
-        <td>6</td>
+        <td>6.0</td>
+        <td>5.5</td>
+        <td>5.0</td>
     </tr>
 </table>
 

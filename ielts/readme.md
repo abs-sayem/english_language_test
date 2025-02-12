@@ -24,23 +24,23 @@
 <table >
     <tr>
         <th>Raw Score</th>
-        <th>40</th>
+        <th>39-40</th>
         <th>37-38</th>
-        <th>34-35</th>
-        <th>30-31</th>
+        <th>35-36</th>
+        <th>33-34</th>
+        <th>30-32</th>
+        <th>27-29</th>
         <th>23-26</th>
-        <th>15-18</th>
-        <th>9-11</th>
     </tr>
     <tr>
         <td>Band Score</td>
         <td>9</td>
+        <td>8.5</td>
         <td>8</td>
+        <td>7.5</td>
         <td>7</td>
+        <td>6.5</td>
         <td>6</td>
-        <td>5</td>
-        <td>4</td>
-        <td>3</td>
     </tr>
 </table>
 

@@ -7,12 +7,12 @@
     <tr>
         <td>innate</td>
         <td>natural, inborn, inherent, native, latent, raw, regular, radical, soft, simple, light, usual</td>
-        <td></td>
+        <td>conditioned</td>
     </tr>
     <tr>
         <td>warfare</td>
         <td>battle, war, fight, struggle, hostilities, conflict, fighter, militant, battler, combatant, war-path</td>
-        <td></td>
+        <td>peace</td>
     </tr>
     <tr>
         <td>trait</td>
@@ -63,5 +63,10 @@
         <td>advent</td>
         <td>appearance, manifestation, presence, visit, coming, arrival, approach</td>
         <td>departure</td>
+    </tr>
+    <tr>
+        <td>penultimate</td>
+        <td>second last</td>
+        <td></td>
     </tr>
 </table>

@@ -51,7 +51,7 @@
 #### **For Writing and Speaking:**
 The band score of writing and speaking depends on 4 important pointers-
 <table>
-    <tr><td>Writing</td><td>Speaking</td></tr>
+    <tr><th>Writing</th><th>Speaking</th></tr>
     <tr><td>Grammartical Range</td><td>Grammartical Range</td></tr>
     <tr><td>Punctuation</td><td>Pronunciation</td></tr>
     <tr><td>Correlation-Coherence</td><td>Fluency</td></tr>

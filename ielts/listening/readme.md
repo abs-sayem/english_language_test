@@ -4,11 +4,14 @@
 **Relatively Easy**<br>
 **> Section 1 (Social) - Two Speakers**<br>
 - A social (everyday) situation like - booking something in call.<br>
+
 **> Section 2 (Social) - One Speaker**<br>
 - Also a social (everyday) situation like - a tour guide explaining guidelines or telling history of something or facilities of a hotel is offering.<br>
+
 **Relatively Harder**<br>
 **> Section 3 (Academic) - Three/Four Speakers**<br>
 - An accademic discussion among 3-4 persons.
 - Have to identify who is speaking and who is saying what.<br>
+
 **> Section 4 (Academic) - One Speaker**
 - An accademic lecture of one person

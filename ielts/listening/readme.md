@@ -6,7 +6,7 @@
 **> Section 3 (Academic) - Three/Four Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>
 **> Section 4 (Academic) - One Speaker** - An accademic lecture of one person
 
-#### **Remember**
+#### **Tips**
 - you hear the recording only once (we have to write the answer while listening, it could be little hard)
 - write the answers either in CAPITAL LETTERS or in lower letters, you have to strict in one for all answers. (If use lower letters - still use Capital first letter for names, places).
 - numbers of words for each answer: `No more than two words and/or a number` - one word / one number / two words / two words and a number
@@ -16,10 +16,36 @@
     - multiple choice
     - map completion
     - diagram labelling
-    - form completion
-    - note completion
+    - form completion (common in section 1)
+    - note completion (common in section 4)
     - flow chart completion
-    - setence completion
+    - setence completion (very common)
     - summary completion
     - short answer questions
     - table completion
+- don't try to understand everything, aim is to find answer
+- prepare the questions and answers
+- answers can come quickly, means - they don't follow equal intervals
+- keep your eye on the next question
+- make notes - since the questions could be large and you might forget them, write them shortly in note.
+- there may be a gap between answers - it might the answer is comming later than usual.
+- comman traps:
+    - answer that are changed (seems like it is the answer but changed afterwards, so keep listening)
+    - using similar words in question and recording rather their paraphrases, because ielts usually uses paraphases.
+- repeated answers (usually in section 3, multiple speakers may repeat the answers)
+- listen for plurals (most of the non-english speaker struggles to iderntify plurals)
+- if you don't know the answer, guess and write an answer, don't leave empty
+- Remember:
+    - listen to the example given at the beginning
+    - a range of accents will be used
+    - look for titles (diagrams, maps, tables)
+    - check where all the questions are
+    - if you miss an answer, move quickly to the next one
+    - accademic language in not always paraphrased (if you have any hard word it might not be useful)
+- have to write words you hear, can't reform words
+```
+Recording > Children must be accompanied by an adult at all times.
+Question > No children are allowed without ........ .
+Answer > an accompanying adult / an adult
+```
+- make sure your headphone is working properly, concentrate

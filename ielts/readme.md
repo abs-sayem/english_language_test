@@ -1,17 +1,17 @@
 ## **IELTS Details**
 
 ### **Parts of IELTS Test**
-1. **Reading:** (3 passages, 40 questions, 60 minutes)
-2. **Listening:** (4 sections, 40 questions, 40 minutes)
-3. **Writing:** (2 tasks, 60 minutes) (task-1: 20 minutes + task-2: 40 minutes)
-4. **Speaking:** (3 parts,  < 20 minutes)
+1. **Reading    :** (3 passages, 40 questions, 60 minutes)
+2. **Listening  :** (4 sections, 40 questions, 40 minutes)
+3. **Writing    :** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
+4. **Speaking   :** (3 parts,  < 20 minutes)
 
 ### **Know the Test Well**
 - Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
 - Know the marks distribution - which sub-part contains how much marks
 - Raw score vs Band score - ?/40 : ?/9
 - Know the question patterns of the parts - what types of questions will be given and how the marks will be distributed
-- For Example, for **Speaking** the marks are distributed on 4 things:
+- For Example, for **Speaking**, the marks are distributed on 4 things:
 	1. **Fluency and Coherence:** Fluency is - can I talk without having long pause and buzz words and Coherence is the relation between the sentences (are the sentences related or jumps here and there).
 	2. **Grammatical Range and Accuracy**
 	3. **Pronunciation**
@@ -58,5 +58,5 @@
 </table>
 
 #### **Resources**
-**> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)
-**> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz), [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)
+**> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)<br>
+**> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz) | [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)

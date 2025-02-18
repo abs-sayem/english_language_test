@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td>feasible</td>
-        <td>possible, practicible, enforceable, effective, useful, workable, telling, efficient, probable, practical, likely, probable</td>
+        <td>possible, practicible, enforceable, effective, useful, workable, telling, efficient, probable, practical, likely</td>
         <td>impossible</td>
     </tr>
     <tr>
@@ -71,7 +71,42 @@
     </tr>
     <tr>
         <td>revoke</td>
-        <td>Adress, Invite, Call</td>
+        <td>adress, invite, call</td>
         <td></td>
+    </tr>
+    <tr>
+        <td>confinement</td>
+        <td>imprisonment, binding, jurisdiction, prison, jail, lockup, blockade, occlusion</td>
+        <td>freedom</td>
+    </tr>
+    <tr>
+        <td>imposed</td>
+        <td>assigned, attributed, fixed, settled, destined, imputed, ascribed</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>mythical</td>
+        <td>unreal, immaterial, intangible, fabled, illusory, fictive, imaginary, fictitious, fictional, imaginative, faked, artificial</td>
+        <td>factual, real</td>
+    </tr>
+    <tr>
+        <td>entrapped</td>
+        <td>caught, taken, aching, arrested, seized</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>reminiscence</td>
+        <td>remembrance, memory, call-up, revival, recollection</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>resonate</td>
+        <td>re-echo, resonance, sympathetic vibration, similar sound</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>melancholy</td>
+        <td>sad and pensive, frustrating, low, despondent, hopeless, gloomy, broken-hearted, sorrow, dejection, disappointment, dispair, filth, dump, fatigue</td>
+        <td>cheerful</td>
     </tr>
 </table>

@@ -1,10 +1,10 @@
 ## **IELTS Details**
 
 ### **Parts of IELTS Test**
-1. **Reading    :** (3 passages, 40 questions, 60 minutes)
-2. **Listening  :** (4 sections, 40 questions, 40 minutes)
-3. **Writing    :** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
-4. **Speaking   :** (3 parts,  < 20 minutes)
+1. **Reading :** (3 passages, 40 questions, 60 minutes)
+2. **Listening:** (4 sections, 40 questions, 40 minutes)
+3. **Writing :** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
+4. **Speaking :** (3 parts,  < 20 minutes)
 
 ### **Know the Test Well**
 - Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
@@ -57,6 +57,6 @@
     <tr><td>Laxical Resource</td><td>Vocabulary</td></tr>
 </table>
 
-#### **Resources**
+### **Resources**
 **> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)<br>
 **> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz) | [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)

@@ -1,11 +1,11 @@
-### **What we need to do in writion task 2**
-**> Our goal is** - to clearly answer the question, in a logical way, using appropriate language.<br>
-**> How to do so?**<br>
-**>> 1. Thinking**<br>
-**>>>>> Understand the Question Clearly:** Take sometime and think about what they are actually asking to do.<br>
-**>>>>> Generate Relevant Ideas:** How you wish to contruct your essay in a very logical way. What you want to include in these essays so that it makes sense, easy to read and understand.<br>
-**>> 2. Planning**<br>
-**>>>>> Inset Ideas into Structure:** Which helps us answer the question in a logical way. The structure could be -
+### **What we need to do in Writimg Task 2**
+#### **Our goal is** - to clearly answer the question, in a logical way, using appropriate language.
+#### **How to do so?**
+**1. Thinking**<br>
+**> Understand the Question Clearly:** Take sometime and think about what they are actually asking to do.
+**> Generate Relevant Ideas:** How you wish to contruct your essay in a very logical way. What you want to include in these essays so that it makes sense, easy to read and understand.<br>
+**2. Planning**<br>
+**> Inset Ideas into Structure:** Which helps us answer the question in a logical way. The structure could be -
 * **Introduction:**
     * Paraphrase the question. A better paraphrasing shows that you have clearly understood the question.
     * Then briefly answer the question in a logical way.
@@ -15,7 +15,7 @@
     * Putting an example - helps the examiner to understand that you have understood the question very clearly and you have logically answer the question.
 * **Conclusion:** Summarize out main points
 
-### **Tips**
+### **Remember:**
 - Only use language that helps you clearly answer the question. `Do not use language you are not comfortable using and don't use memorized sentences that are not related to the actual question.`
 - Language should be - accurate (few mistakes possible), appropriate (topic specific words)
 - Only use language that you already know how to use. Prefer using simplier language that you fully understand than using some high level words and grammatical structures that you don't sure about.

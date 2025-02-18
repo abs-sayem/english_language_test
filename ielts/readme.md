@@ -1,26 +1,26 @@
 ## **IELTS Details**
 
 ### **Parts of IELTS Test**
-1. **Reading**
-2. **Listening**
-3. **Writing**
-4. **Speaking**
+1. **Reading:** (3 passages, 40 questions, 60 minutes)
+2. **Listening:** (4 sections, 40 questions, 40 minutes)
+3. **Writing:** (2 tasks, 60 minutes) (task-1: 20 minutes + task-2: 40 minutes)
+4. **Speaking:** (3 parts,  < 20 minutes)
 
 ### **Know the Test Well**
 - Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
 - Know the marks distribution - which sub-part contains how much marks
-- Band score vs raw score - ?/9 : ?/40
+- Raw score vs Band score - ?/40 : ?/9
 - Know the question patterns of the parts - what types of questions will be given and how the marks will be distributed
-- For Example - for speaking the marks are distributed on 4 things:
-	1. Fluency and Coherence: Fluency is can I talk without having long pause and buzz words and Coherence is the relation between the sentences - are they related or we just jumps here and there.
-	2. Grammatical Range and Accuracy
-	3. Pronunciation
-	4. Lexical Resource - Vocabulary
-- Find out the strong and weak points and work on those
+- For Example, for **Speaking** the marks are distributed on 4 things:
+	1. **Fluency and Coherence:** Fluency is - can I talk without having long pause and buzz words and Coherence is the relation between the sentences (are the sentences related or jumps here and there).
+	2. **Grammatical Range and Accuracy**
+	3. **Pronunciation**
+	4. **Lexical Resources (Vocabulary)**
+- Find out your strong and weak points and work on those
 - Practice, practice, practice
 
 ### **Raw Score vs Band Score (Accademic)**
-#### **For Reading and Listening**
+**For Reading and Listening**
 <table >
     <tr>
         <th>Raw Score</th>
@@ -48,8 +48,7 @@
     </tr>
 </table>
 
-#### **For Writing and Speaking:**
-The band score of writing and speaking depends on 4 important pointers-
+**For Writing and Speaking:** The band score 9 of writing and speaking depends on 4 important pointers-
 <table>
     <tr><th>Writing</th><th>Speaking</th></tr>
     <tr><td>Grammartical Range</td><td>Grammartical Range</td></tr>
@@ -57,3 +56,7 @@ The band score of writing and speaking depends on 4 important pointers-
     <tr><td>Correlation-Coherence</td><td>Fluency</td></tr>
     <tr><td>Laxical Resource</td><td>Vocabulary</td></tr>
 </table>
+
+#### **Resources**
+**> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)
+**> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz), [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)

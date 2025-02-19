@@ -24,7 +24,7 @@
 
 #### **3. Multiple Choice Question**
 
-*`Choose the correct letter **A**, **B**, **C** or **D**. Write the correct letter for your answer.`*<br>
+*`Choose the correct letter` ***`A`***`,` ***`B`***`,` ***`C`*** `or` ***`D`***`. Write the correct letter for your answer.`*<br>
 **>** When referring to the laughter in the first paragraph, the writer emphasises<br>
  A. its impact on language.<br>
  B. its function in human culture.<br>

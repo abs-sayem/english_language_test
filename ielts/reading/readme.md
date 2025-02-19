@@ -1,8 +1,8 @@
 ### **The Ultimate Guide for Band 9**
 
-**1. Sentence Completion**
+#### **1. Sentence Completion**
 
-*Choose one word only from the passage for each answer.*<br>
+*`Choose one word only from the passage for each answer.`*<br>
 **>** the leaves of the tree are **1** ....... for shape.<br>
 **>** the **2** ...... is used to produce the spice nutmeg.
 
@@ -12,9 +12,9 @@
 - where before what - indentify the location of the answer, read the section carefully and decide the answer
 - spell correctly while writing the answer**
 
-**2. Summary Completion**
+#### **2. Summary Completion**
 
-*Choose no more that two words from the passage for each answer.*<br>
+*`Choose no more that two words from the passage for each answer.`*<br>
 **>** The writer has experience of a large number of **3** ....., and was the first stranger that certain previously **4** ..... people had encounted.
 
 **Tips to solve:**
@@ -22,14 +22,14 @@
 - read the summary paragraph first
 - check if the answer is grammtically correct and make sense.
 
-**3. Multiple Choice Question**
+#### **3. Multiple Choice Question**
 
-*Choose the correct letter **A**, **B**, **C** or **D**. Write the correct letter for your answer.*<br>
+*`Choose the correct letter **A**, **B**, **C** or **D**. Write the correct letter for your answer.`*<br>
 **>** When referring to the laughter in the first paragraph, the writer emphasises<br>
-    A. its impact on language.<br>
-    B. its function in human culture.<br>
-    C. its value to scientific research.<br>
-    D. its universality in animan societies.
+ A. its impact on language.<br>
+ B. its function in human culture.<br>
+ C. its value to scientific research.<br>
+ D. its universality in animan societies.
 
 **Key Problem:** Not understanding differences in different options.
 
@@ -39,9 +39,9 @@
 - identify the sention and read it carefully
 - if you are confused about the section, exclude the option(s) that you sure they won't be the answer and then focus on the other options.
 
-**4. Short Answer Question (Rare)**
+#### **4. Short Answer Question (Rare)**
 
-*Write your answers in boxes 4-8 on your answer sheet.*<br>
+*`Write your answers in boxes 4-8 on your answer sheet.`*<br>
 **>** What has been found in some Fancy Foods products?<br>
 **>** Where can you find the batch number on the jars?
 
@@ -54,3 +54,39 @@
 - underline keywords and think of their synonyms 
 - identify the location of the answer and read the section carefully
 - decide the answer carefully
+
+#### **5. Labelling a Diagram**
+There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
+
+*`Choose no more than two words from the passage for each answer. Write your answers in boxes 9-13 on your answer sheet.`*<br>
+**>** **9** ....... attached to hull by wires
+**>** **10** ....... to prevent hull being sucked into mud
+
+**Key Problems:**
+- inability to cope with the unfamiliar
+- not reading instructions
+
+**Tips to solve:**
+- read the insturctions carefully
+- look at the diagram and read questions carefully
+- highlight keywords and think of their synonyms 
+- identify the location of the answer and read the section carefully
+- decide the answer carefully, be careful with spelling
+
+#### **6. True/False/Not Given**
+There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
+
+*`Choose no more than two words from the passage for each answer. Write your answers in boxes 9-13 on your answer sheet.`*<br>
+**>** **9** ....... attached to hull by wires
+**>** **10** ....... to prevent hull being sucked into mud
+
+**Key Problems:**
+- inability to cope with the unfamiliar
+- not reading instructions
+
+**Tips to solve:**
+- read the insturctions carefully
+- look at the diagram and read questions carefully
+- highlight keywords and think of their synonyms 
+- identify the location of the answer and read the section carefully
+- decide the answer carefully, be careful with spelling

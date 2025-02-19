@@ -1,9 +1,13 @@
 ### **What we need to do in Writimg Task 2**
-#### **Our goal is** - to clearly answer the question, in a logical way, using appropriate language.
-#### **How to do so?**
+
+**Our goal is** - to clearly answer the question, in a logical way, using appropriate language.
+
+**How to do so?**
+
 **1. Thinking**<br>
-**> Understand the Question Clearly:** Take sometime and think about what they are actually asking to do.
-**> Generate Relevant Ideas:** How you wish to contruct your essay in a very logical way. What you want to include in these essays so that it makes sense, easy to read and understand.<br>
+**> Understand the Question Clearly:** Take sometime and think about what they are actually asking to do.<br>
+**> Generate Relevant Ideas:** How you wish to contruct your essay in a very logical way. What you want to include in these essays so that it makes sense, easy to read and understand.
+
 **2. Planning**<br>
 **> Inset Ideas into Structure:** Which helps us answer the question in a logical way. The structure could be -
 * **Introduction:**

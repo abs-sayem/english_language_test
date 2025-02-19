@@ -109,4 +109,19 @@
         <td>sad and pensive, frustrating, low, despondent, hopeless, gloomy, broken-hearted, sorrow, dejection, disappointment, dispair, filth, dump, fatigue</td>
         <td>cheerful</td>
     </tr>
+    <tr>
+        <td>skim</td>
+        <td>read (something) quickly to note only the important points, go through</td>
+        <td>study carefully</td>
+    </tr>
+    <tr>
+        <td>sovereignty</td>
+        <td>supreme power or authority, supremacy, ownership, rule</td>
+        <td>subjugation</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>

@@ -26,10 +26,10 @@
 
 *`Choose the correct letter` ***`A`***`,` ***`B`***`,` ***`C`*** `or` ***`D`***`. Write the correct letter for your answer.`*<br>
 **>** When referring to the laughter in the first paragraph, the writer emphasises<br>
- A. its impact on language.<br>
- B. its function in human culture.<br>
- C. its value to scientific research.<br>
- D. its universality in animan societies.
+&nbsp;&nbsp;A. its impact on language.<br>
+&nbsp;&nbsp;B. its function in human culture.<br>
+&nbsp;&nbsp;C. its value to scientific research.<br>
+&nbsp;&nbsp;D. its universality in animan societies.
 
 **Key Problem:** Not understanding differences in different options.
 

@@ -77,7 +77,7 @@ There will be diagrams and diagram related statement completion questions like b
 There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
 
 *`Do the following statements agree with the information given in Reading Passage 2?` Write <br> **True** - if the statemant agrees with the information <br> **False** - if the statement contradicts the information <br> **Not Given** - if there in no information on his.*<br>
-**>** The Falkirk Wheel has linked the Forth and Clyde Canal with the Union Canal for the first time in their history.
+**>** The Falkirk Wheel has linked the Forth and Clyde Canal with the Union Canal for the first time in their history.<br>
 **>** There was some opposition to the design of the Falkirk Wheel at first.
 
 **Key Problems:**
@@ -90,3 +90,20 @@ There will be diagrams and diagram related statement completion questions like b
 - match the statement with correct part of text
 - read the statement again, and then read the text carefully.
 - does the meaning match? yes => True, no => False, not sure => Not Given
+
+#### **7. Yes/No/Not Given**
+There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
+
+*`Do the following statements agree with the views of the writer in Reading Passage 3?` Write <br> **Yes** - if the statemant agrees with the views of the writer <br> **False** - if the statement contradicts the views of the writer <br> **Not Given** - if there in no information on his.*<br>
+**>** Forsythe's findings contradicted previous beliefs on the function of 'fractais' in art.<br>
+**>** People's taste in paintings depends entirely on the currenent artistic treands of the period.
+
+**Key Problems:**
+- not understanding difference between T/F/NG and Y/N/NG. (Fact vs Opinion)
+    - This is a squired room. (fact)
+    - Rectangular room is better than squired room. (opinion)
+- misunderstand or fail to understand the writers opinion, confusing writer's opinion + other's opinion
+- focus on keywords, too much time on not given
+
+**Tips to solve:**
+- same as True/False/Not Given

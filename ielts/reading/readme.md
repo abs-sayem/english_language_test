@@ -76,17 +76,17 @@ There will be diagrams and diagram related statement completion questions like b
 #### **6. True/False/Not Given**
 There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
 
-*`Choose no more than two words from the passage for each answer. Write your answers in boxes 9-13 on your answer sheet.`*<br>
-**>** **9** ....... attached to hull by wires
-**>** **10** ....... to prevent hull being sucked into mud
+*`Do the following statements agree with the information given in Reading Passage 2?` Write <br> **True** - if the statemant agrees with the information <br> **False** - if the statement contradicts the information <br> **Not Given** - if there in no information on his.*<br>
+**>** The Falkirk Wheel has linked the Forth and Clyde Canal with the Union Canal for the first time in their history.
+**>** There was some opposition to the design of the Falkirk Wheel at first.
 
 **Key Problems:**
-- inability to cope with the unfamiliar
-- not reading instructions
+- not understanding 'not given', so searching for 'not given' kills time
+- misunderstand or fail to understand what whole sentence means
+- focus on keywords
 
 **Tips to solve:**
-- read the insturctions carefully
-- look at the diagram and read questions carefully
-- highlight keywords and think of their synonyms 
-- identify the location of the answer and read the section carefully
-- decide the answer carefully, be careful with spelling
+- read the statements first, understand the meaning, think of synonyms
+- match the statement with correct part of text
+- read the statement again, and then read the text carefully.
+- does the meaning match? yes => True, no => False, not sure => Not Given

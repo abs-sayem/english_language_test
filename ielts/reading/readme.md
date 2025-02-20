@@ -116,14 +116,14 @@ There will be diagrams and diagram related statement completion questions like b
 &nbsp;&nbsp;&nbsp;&nbsp;**10** Compared with a non-smoker, a smoker
 &nbsp;&nbsp;&nbsp;&nbsp;**10** The American Medical Association
 
-|------------------------------------------------------------------|<br>
-| A includes reviews of students in its reports.                   |<br>
-| B argures for stronger action against smoking in public places.  |<br>
-| .                                                                |<br>
-| .                                                                |<br>
-| .                                                                |<br>
-| J is one of the two most preventable causes of death.            |<br>
-|------------------------------------------------------------------|
+|-----------------------------------------------------------------|<br>
+| A includes reviews of students in its reports. -----------------|<br>
+| B argures for stronger action against smoking in public places. |<br>
+| . --------------------------------------------------------------|<br>
+| . --------------------------------------------------------------|<br>
+| . --------------------------------------------------------------|<br>
+| J is one of the two most preventable causes of death. ----------|<br>
+|-----------------------------------------------------------------|
 
 **Key Problems:**
 - using logic or grammar - look at the text before your own logic
@@ -141,14 +141,14 @@ There will be diagrams and diagram related statement completion questions like b
 &nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.
 &nbsp;&nbsp;&nbsp;&nbsp;**10** The effect of oxytocin varies from one type of person to another.
 
-|-------------------------------------|<br>
-| &nbsp;&nbsp; List of Researchers    |<br>
-| A Markues Heinrichs                 |<br>
-| B Jennifer Bartz                    |<br>
-| .                                   |<br>
-| .                                   |<br>
-| F Sue Carter                        |<br>
-|-------------------------------------|
+|----------------------------------|<br>
+|------ List of Researchers -------|<br>
+| A Markues Heinrichs -------------|<br>
+| B Jennifer Bartz ----------------|<br>
+| . -------------------------------|<br>
+| . -------------------------------|<br>
+| F Sue Carter --------------------|<br>
+|----------------------------------|
 
 **Tips to solve:**
 - scan for names in text, focus on the names mentioned once first (same name can be different places)

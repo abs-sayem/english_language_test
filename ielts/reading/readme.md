@@ -141,14 +141,12 @@ There will be diagrams and diagram related statement completion questions like b
 &nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.
 &nbsp;&nbsp;&nbsp;&nbsp;**10** The effect of oxytocin varies from one type of person to another.
 
-|----------------------------------|<br>
-|------ List of Researchers -------|<br>
-| A Markues Heinrichs -------------|<br>
-| B Jennifer Bartz ----------------|<br>
-| . -------------------------------|<br>
-| . -------------------------------|<br>
-| F Sue Carter --------------------|<br>
-|----------------------------------|
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List of Researchers<br>
+&nbsp;&nbsp;A Markues Heinrichs <br>
+&nbsp;&nbsp;B Jennifer Bartz <br>
+&nbsp;&nbsp;. <br>
+&nbsp;&nbsp;. <br>
+&nbsp;&nbsp;F Sue Carter <br>
 
 **Tips to solve:**
 - scan for names in text, focus on the names mentioned once first (same name can be different places)

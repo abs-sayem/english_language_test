@@ -137,11 +137,11 @@ There will be diagrams and diagram related statement completion questions like b
 
 *`Match each research findings with the correct researcher,` **A-F.** `Write the correct letter in boxes 9-13 on your answer sheet.`*<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**9** People are more trusting when affected by oxytocin.
-&nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.
+&nbsp;&nbsp;&nbsp;&nbsp;**9** People are more trusting when affected by oxytocin.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**10** The effect of oxytocin varies from one type of person to another.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List of Researchers<br>
+&nbsp;List of Researchers<br>
 &nbsp;&nbsp;A Markues Heinrichs <br>
 &nbsp;&nbsp;B Jennifer Bartz <br>
 &nbsp;&nbsp;. <br>

@@ -169,7 +169,8 @@ There will be diagrams and diagram related statement completion questions like b
 
 #### **11. Table Completion (accademic)/ Flow Chart Completion**
 
-*`Complete the flow char below.`<br> `Choose six answers from the box and write the correct letter, A-H, next to Questions 21-26`
+*`Complete the flow char below.`<br> `Choose six answers from the box and write the correct letter, A-H, next to Questions 21-26`*
+
 A&nbsp;&nbsp;patterens &nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;names&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;sources<br>
 D&nbsp;&nbsp;questions &nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;employees&nbsp;&nbsp;F&nbsp;&nbsp;solutions
 

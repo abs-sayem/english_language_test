@@ -133,13 +133,13 @@ There will be diagrams and diagram related statement completion questions like b
 - read the endings, match obrious ones, eliminate obviously wrong endings
 - locate part of text, read carefully and choose.
 
-#### **9. Matching**
+#### **9. Matching Names**
 
-*`Match each research findings with the correct researcher,` **A-F.** `Write the correct letter in boxes 9-13 on your answer sheet.`*<br>
+*`Match each research findings with the correct researcher,` **A-F.** `Write the correct letter in boxes 7-9 on your answer sheet.`*<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**9** People are more trusting when affected by oxytocin.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**10** The effect of oxytocin varies from one type of person to another.
+&nbsp;&nbsp;&nbsp;&nbsp;**7** People are more trusting when affected by oxytocin.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**8** Oxytocin increases people's feelings of jealousy.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**9** The effect of oxytocin varies from one type of person to another.
 
 &nbsp;List of Researchers<br>
 &nbsp;&nbsp;A Markues Heinrichs <br>
@@ -150,4 +150,51 @@ There will be diagrams and diagram related statement completion questions like b
 
 **Tips to solve:**
 - scan for names in text, focus on the names mentioned once first (same name can be different places)
-- read their research in details, match with the question statements 
+- read their research in details, match with the question statements
+
+#### **10. Matching Information**
+
+*`Reading Passage 2 has six paragraphs, A-F.`<br> `Which paragraph contains the following impormation?` <br> `Write the correct letter, A-F, in the boxes 10-14 on your answer sheet`*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**10** a reference to how quickly animal species can die out.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**11** reasons why it is perferable to study animals in captivity rather than in the wild.<br>
+
+**Key Problems:**
+- have to consider the whole text. **`Do this segment last`**
+
+**Tips to solve:**
+- read the questions first, shim the text
+- scan to find the location, read the question again and again
+- if find - underline, mark correct if possible
+- move to different paragragh if not correct
+
+#### **11. Table Completion (accademic)/ Flow Chart Completion**
+
+*`Complete the flow char below.`<br> `Choose six answers from the box and write the correct letter, A-H, next to Questions 21-26`
+A&nbsp;&nbsp;patterens &nbsp;&nbsp;&nbsp;&nbsp;B&nbsp;&nbsp;names&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;sources<br>
+D&nbsp;&nbsp;questions &nbsp;&nbsp;&nbsp;&nbsp;E&nbsp;&nbsp;employees&nbsp;&nbsp;F&nbsp;&nbsp;solutions
+
+Locates and read relevant articles, nothing key information and also **21** ......<br>
+Identify a problem or need <br>
+Select interviews - these may be site **22** ......, visitors or city **23** ......
+
+**Key Problems:**
+- not reading instructions
+
+**Tips to solve:**
+- read insturctions carefully
+- scan text to locate paragragh, read the section carefully
+- write the word exactly in the text, check spelling
+
+#### **12. Matching Headings**
+Given headings and ask to match which heading is match with which paragraph. There will be more headings than paragraphs of course.
+
+**Key Problems:**
+- lots of imformation to process
+- not understanding whole paragragh
+- not understanding statements
+
+**Tips to solve:**
+- do the question first 
+- read each paragragh and write your own meaning
+- look at the headings and match which given headings matcher with you
+- focus on these headings now and select the best suitated one

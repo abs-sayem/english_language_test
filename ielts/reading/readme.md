@@ -107,3 +107,49 @@ There will be diagrams and diagram related statement completion questions like b
 
 **Tips to solve:**
 - same as True/False/Not Given
+
+#### **8. Matching Sentences (Rare)**
+
+*`Complete each sentence with the correct ending` ***A-J*** `from the box bellow. Write the correct letter in boxes 9-13 on your answer sheet.`*<br> `[NB] You may use any letter more than once.`<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**9** Passive smoking
+&nbsp;&nbsp;&nbsp;&nbsp;**10** Compared with a non-smoker, a smoker
+&nbsp;&nbsp;&nbsp;&nbsp;**10** The American Medical Association
+
+|------------------------------------------------------------------|<br>
+| A includes reviews of students in its reports.                   |<br>
+| B argures for stronger action against smoking in public places.  |<br>
+| .                                                                |<br>
+| .                                                                |<br>
+| .                                                                |<br>
+| J is one of the two most preventable causes of death.            |<br>
+|------------------------------------------------------------------|
+
+**Key Problems:**
+- using logic or grammar - look at the text before your own logic
+
+**Tips to solve:**
+- read first part of the sentences and predict endings before checking
+- read the endings, match obrious ones, eliminate obviously wrong endings
+- locate part of text, read carefully and choose.
+
+#### **9. Matching**
+
+*`Match each research findings with the correct researcher,` **A-F.** `Write the correct letter in boxes 9-13 on your answer sheet.`*<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**9** People are more trusting when affected by oxytocin.
+&nbsp;&nbsp;&nbsp;&nbsp;**10** Oxytocin increases people's feelings of jealousy.
+&nbsp;&nbsp;&nbsp;&nbsp;**10** The effect of oxytocin varies from one type of person to another.
+
+|-------------------------------------|<br>
+| &nbsp;&nbsp; List of Researchers    |<br>
+| A Markues Heinrichs                 |<br>
+| B Jennifer Bartz                    |<br>
+| .                                   |<br>
+| .                                   |<br>
+| F Sue Carter                        |<br>
+|-------------------------------------|
+
+**Tips to solve:**
+- scan for names in text, focus on the names mentioned once first (same name can be different places)
+- read their research in details, match with the question statements 

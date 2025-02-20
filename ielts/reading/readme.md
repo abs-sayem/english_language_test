@@ -1,6 +1,6 @@
-### **The Ultimate Guide for Band 9**
+## **The Ultimate Guide for Band 9**
 
-#### **1. Sentence Completion**
+### **1. Sentence Completion**
 
 *`Choose one word only from the passage for each answer.`*<br>
 **>** the leaves of the tree are **1** ....... for shape.<br>
@@ -12,7 +12,8 @@
 - where before what - indentify the location of the answer, read the section carefully and decide the answer
 - spell correctly while writing the answer**
 
-#### **2. Summary Completion**
+
+### **2. Summary Completion**
 
 *`Choose no more that two words from the passage for each answer.`*<br>
 **>** The writer has experience of a large number of **3** ....., and was the first stranger that certain previously **4** ..... people had encounted.
@@ -22,7 +23,8 @@
 - read the summary paragraph first
 - check if the answer is grammtically correct and make sense.
 
-#### **3. Multiple Choice Question**
+
+### **3. Multiple Choice Question**
 
 *`Choose the correct letter` ***`A`***`,` ***`B`***`,` ***`C`*** `or` ***`D`***`. Write the correct letter for your answer.`*<br>
 **>** When referring to the laughter in the first paragraph, the writer emphasises<br>
@@ -39,7 +41,8 @@
 - identify the sention and read it carefully
 - if you are confused about the section, exclude the option(s) that you sure they won't be the answer and then focus on the other options.
 
-#### **4. Short Answer Question (Rare)**
+
+### **4. Short Answer Question (Rare)**
 
 *`Write your answers in boxes 4-8 on your answer sheet.`*<br>
 **>** What has been found in some Fancy Foods products?<br>
@@ -55,7 +58,8 @@
 - identify the location of the answer and read the section carefully
 - decide the answer carefully
 
-#### **5. Labelling a Diagram**
+
+### **5. Labelling a Diagram**
 There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
 
 *`Choose no more than two words from the passage for each answer. Write your answers in boxes 9-13 on your answer sheet.`*<br>
@@ -73,7 +77,8 @@ There will be diagrams and diagram related statement completion questions like b
 - identify the location of the answer and read the section carefully
 - decide the answer carefully, be careful with spelling
 
-#### **6. True/False/Not Given**
+
+### **6. True/False/Not Given**
 There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
 
 *`Do the following statements agree with the information given in Reading Passage 2?` Write <br> **True** - if the statemant agrees with the information <br> **False** - if the statement contradicts the information <br> **Not Given** - if there in no information on his.*<br>
@@ -91,7 +96,8 @@ There will be diagrams and diagram related statement completion questions like b
 - read the statement again, and then read the text carefully.
 - does the meaning match? yes => True, no => False, not sure => Not Given
 
-#### **7. Yes/No/Not Given**
+
+### **7. Yes/No/Not Given**
 There will be diagrams and diagram related statement completion questions like below. We have to answer the questions form passage.
 
 *`Do the following statements agree with the views of the writer in Reading Passage 3?` Write <br> **Yes** - if the statemant agrees with the views of the writer <br> **False** - if the statement contradicts the views of the writer <br> **Not Given** - if there in no information on his.*<br>
@@ -108,7 +114,8 @@ There will be diagrams and diagram related statement completion questions like b
 **Tips to solve:**
 - same as True/False/Not Given
 
-#### **8. Matching Sentences (Rare)**
+
+### **8. Matching Sentences (Rare)**
 
 *`Complete each sentence with the correct ending` ***A-J*** `from the box bellow. Write the correct letter in boxes 9-13 on your answer sheet.`*<br> `[NB] You may use any letter more than once.`<br>
 
@@ -133,7 +140,8 @@ There will be diagrams and diagram related statement completion questions like b
 - read the endings, match obrious ones, eliminate obviously wrong endings
 - locate part of text, read carefully and choose.
 
-#### **9. Matching Names**
+
+### **9. Matching Names**
 
 *`Match each research findings with the correct researcher,` **A-F.** `Write the correct letter in boxes 7-9 on your answer sheet.`*<br>
 
@@ -152,7 +160,8 @@ There will be diagrams and diagram related statement completion questions like b
 - scan for names in text, focus on the names mentioned once first (same name can be different places)
 - read their research in details, match with the question statements
 
-#### **10. Matching Information**
+
+### **10. Matching Information**
 
 *`Reading Passage 2 has six paragraphs, A-F.`<br> `Which paragraph contains the following impormation?` <br> `Write the correct letter, A-F, in the boxes 10-14 on your answer sheet`*<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**10** a reference to how quickly animal species can die out.<br>
@@ -167,7 +176,8 @@ There will be diagrams and diagram related statement completion questions like b
 - if find - underline, mark correct if possible
 - move to different paragragh if not correct
 
-#### **11. Table Completion (accademic)/ Flow Chart Completion**
+
+### **11. Table Completion (accademic)/ Flow Chart Completion**
 
 *`Complete the flow char below.`<br> `Choose six answers from the box and write the correct letter, A-H, next to Questions 21-26`*
 
@@ -186,7 +196,8 @@ Select interviews - these may be site **22** ......, visitors or city **23** ...
 - scan text to locate paragragh, read the section carefully
 - write the word exactly in the text, check spelling
 
-#### **12. Matching Headings**
+
+### **12. Matching Headings**
 Given headings and ask to match which heading is match with which paragraph. There will be more headings than paragraphs of course.
 
 **Key Problems:**

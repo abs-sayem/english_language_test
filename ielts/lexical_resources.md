@@ -124,4 +124,59 @@
         <td>exciting, encouraging, irritant, inflammatory</td>
         <td>unprovocative</td>
     </tr>
+    <tr>
+        <td>dope</td>
+        <td>intoxicant, opium (aapim), drug like, idiot, moron, fool, ignoramus</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>dazzling</td>
+        <td>extramely bright, daze, dazing, bright, brilliant, shiny, clear, radiant, browned</td>
+        <td>faded</td>
+    </tr>
+    <tr>
+        <td>savoury</td>
+        <td>not sweet, salty, delicious, tasteful, tasty, palatable, sapid, skein</td>
+        <td>unsavoury</td>
+    </tr>
+    <tr>
+        <td>giddy</td>
+        <td>make (someone) feel excited, rolling, revolving, reeling, ill-advised (thoughtless), unstable, troubled, hectic, palapert, choppy, restless</td>
+        <td>serious</td>
+    </tr>
+    <tr>
+        <td>spotaneous</td>
+        <td>effortless, easy, simple, soft, light, facile, natural, regular, natural, naturalistic, average, ordinary, unprompted, voluntary</td>
+        <td>induced</td>
+    </tr>
+    <tr>
+        <td>exuberant</td>
+        <td>filled, rich, wealthy, affluent, plenty, large, much, enormous, replete, profuse, overflowing, fruity</td>
+        <td>lithargic</td>
+    </tr>
+    <tr>
+        <td>imposing</td>
+        <td>impressive, grand, interesting, tempting, winsome, authoritative, dashing, feasible, likely, probable, mandatory, possible, devious</td>
+        <td>unimpressive</td>
+    </tr>
+    <tr>
+        <td>immense</td>
+        <td>extremely large, great, huge, big, large, extensive, endless, boundless, vast, gigantic, ample, plentiful, magnificent, comprehensive, unlimited, infinite, everlasting</td>
+        <td>tiny</td>
+    </tr>
+    <tr>
+        <td>banging</td>
+        <td>hit, strike, beat, smite, swish, batter, injure, zap, slosh, knock, clatter, harm, wound, bite</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>pathetic</td>
+        <td>pitiful, miserable, sad, doleful, hopeless, emotional, melancholy, despodent, disappointed, low, gloomy, trivial, dime, negligible, poor</td>
+        <td>strong</td>
+    </tr>
+    <tr>
+        <td>corny</td>
+        <td>not special, conventional, unromantic, traditional, customary, banal, trite, stale, back-dated</td>
+        <td>original</td>
+    </tr>
 </table>

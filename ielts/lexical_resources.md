@@ -120,8 +120,8 @@
         <td>subjugation</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>provocative</td>
+        <td>exciting, encouraging, irritant, inflammatory</td>
+        <td>unprovocative</td>
     </tr>
 </table>

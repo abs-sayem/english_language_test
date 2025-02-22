@@ -78,7 +78,7 @@
         <td>- to make poisonous, to pollute<br>- (contamination = pollution)</td>
     </tr>
     <tr>
-        <td>steer away from<br>steer clear of</td>
+        <td>- steer away from<br>- steer clear of</td>
         <td>to avoid something or someone</td>
     </tr>
     <tr>

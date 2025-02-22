@@ -1,10 +1,10 @@
 ## **IELTS Details**
 
 ### **Parts of IELTS Test**
-1. **Reading :** (3 passages, 40 questions, 60 minutes)
-2. **Listening:** (4 sections, 40 questions, 40 minutes)
-3. **Writing :** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
-4. **Speaking :** (3 parts,  < 20 minutes)
+1. **[Reading](https://github.com/abs-sayem/english_language_test/tree/main/ielts/reading):** (3 passages, 40 questions, 60 minutes)
+2. **[Listening](https://github.com/abs-sayem/english_language_test/tree/main/ielts/listening):** (4 sections, 40 questions, 40 minutes)
+3. **[Writing](https://github.com/abs-sayem/english_language_test/tree/main/ielts/writing):** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
+4. **[Speaking](https://github.com/abs-sayem/english_language_test/tree/main/ielts/speaking):** (3 parts,  < 20 minutes)
 
 ### **Know the Test Well**
 - Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)

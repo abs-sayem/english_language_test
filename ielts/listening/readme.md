@@ -5,8 +5,7 @@
 - understand the words, tense and meaning
 - focus on the question and the possible word(s) or option(s)
 - the intervals between answers are not equal
-- write the word(s) with correct spelling
-<br>`all at the same time.`
+- write the word(s) with correct spelling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`all at the same time.`
 
 **`What our limitations are`** -
 - we cannot pay attention to different things at the same time.

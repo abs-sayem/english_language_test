@@ -62,6 +62,6 @@
     - accademic language in not always paraphrased (if you have any hard word it might not be useful)
 - have to write words you hear, can't reform words
 <br>&nbsp;&nbsp;&nbsp;&nbsp;**Recording** > Children must be accompanied by an adult at all times.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Question**&nbsp; > No children are allowed without ........ .<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Answer**&nbsp;&nbsp;&nbsp; > an accompanying adult / an adult
+&nbsp;&nbsp;&nbsp;&nbsp;**Question**&nbsp;&nbsp; > No children are allowed without ........ .<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Answer**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > an accompanying adult / an adult
 - make sure your headphone is working properly, concentrate

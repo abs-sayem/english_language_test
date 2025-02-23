@@ -1,11 +1,14 @@
 ## **IELTS Listening Test**
 
-### **Listening has Three Major Issues** `(to me)`
+### **Listening has Three Major Issues** `(to me)`:
 You have to -<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1. understand the words, tense and meaning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2. focus on the question and the possible word(s) or option(s)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;3. know the correct spelling as well<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**1.** understand the words, tense and meaning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**2.** focus on the question and the possible word(s) or option(s)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**3.** know the correct spelling as well<br>
 all at the same time.
+
+### **But we have Hopes:**
+- 
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **> Section 1 (Social) &nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>

@@ -1,11 +1,13 @@
 ## **IELTS Listening Test**
+
 ### **Listening has Three Major Issues** `(to me)`
-&nbsp;&nbsp;&nbsp;&nbsp;You have to -
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. understand the words, tense and meaning
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. focus on the question and the possible word(s) or option(s)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. know the correct spelling as well
+&nbsp;&nbsp;&nbsp;&nbsp;You have to -<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. understand the words, tense and meaning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. focus on the question and the possible word(s) or option(s)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. know the correct spelling as well<br>
 &nbsp;&nbsp;&nbsp;&nbsp;all at the same time.
-#### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
+
+### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **> Section 1 (Social) &nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>
 **> Section 2 (Social) &nbsp;&nbsp;- One Speaker** - Also a social (everyday) situation like - a tour guide explaining guidelines or telling history of something or facilities of a hotel is offering.<br>
 **> Section 3 (Academic) - Two or More Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>

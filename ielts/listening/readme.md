@@ -1,11 +1,11 @@
 ## **IELTS Listening Test**
 
 ### **Listening has some Major Issues** `(to me)`:
-`You have to` -<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**-** understand the words, tense and meaning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**-** focus on the question and the possible word(s) or option(s)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**-** the intervals between answers are not equal<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**-** write the word(s) with correct spelling,<br>
+`You have to`
+- understand the words, tense and meaning
+- focus on the question and the possible word(s) or option(s)
+- the intervals between answers are not equal
+- write the word(s) with correct spelling
 `all at the same time.`
 
 `What our limitations are` -
@@ -14,9 +14,9 @@
 - when we cannot find an answer for an unusually long time, we panic, which affects the following questions.
 
 ### **But we have Hopes:**
-- most of the words, sentence structure will be familier.
+- most of the words and sentence structures will be familiar.
 - answers will come sequentially.
-- the sentences, with the answer word(s), will be gramatically correct. so we could varify our answer. 
+- the sentences containing the answer word(s) will be grammatically correct, so we can verify our answers.
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **> Section 1 (Social) &nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>

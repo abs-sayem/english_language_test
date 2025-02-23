@@ -15,7 +15,7 @@
 	1. **Fluency and Coherence:** Fluency is - can I talk without having long pause and buzz words and Coherence is the relation between the sentences (are the sentences related or jumps here and there).
 	2. **Grammatical Range and Accuracy**
 	3. **Pronunciation**
-	4. **Lexical Resources (Vocabulary)**
+	4. **[Lexical Resources](https://github.com/abs-sayem/english_language_test/blob/main/ielts/lexical_resources.md) (Vocabulary)**
 - Find out your strong and weak points and work on those
 - Practice, practice, practice
 

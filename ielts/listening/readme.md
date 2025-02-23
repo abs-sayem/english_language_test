@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Section 3 (Academic) - Two or more Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Section 4 (Academic) - One Speaker** - An accademic lecture of one person
 
-### **Tips**
+### **Tips:**
 - you hear the recording only once (we have to write the answer while listening, it could be little hard)
 - write the answers either in CAPITAL LETTERS or in lower letters, you have to strict in one for all answers. (If use lower letters - still use Capital first letter for names, places).
 - numbers of words for each answer: `No more than two words and/or a number` - one word / one number / two words / two words and a number

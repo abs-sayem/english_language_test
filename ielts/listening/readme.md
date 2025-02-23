@@ -5,8 +5,8 @@
 - understand the words, tense and meaning
 - focus on the question and the possible word(s) or option(s)
 - the intervals between answers are not equal
-- write the word(s) with correct spelling<br>
-`all at the same time.`
+- write the word(s) with correct spelling
+<br>`all at the same time.`
 
 **`What our limitations are`** -
 - we cannot pay attention to different things at the same time.
@@ -19,10 +19,10 @@
 - the sentences containing the answer word(s) will be grammatically correct, so we can verify our answers.
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
-**> Section 1 (Social) &nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>
-**> Section 2 (Social) &nbsp;&nbsp;- One Speaker** - Also a social (everyday) situation like - a tour guide explaining guidelines or telling history of something or facilities of a hotel is offering.<br>
-**> Section 3 (Academic) - Two or More Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>
-**> Section 4 (Academic) - One Speaker** - An accademic lecture of one person
+&nbsp;&nbsp;&nbsp;&nbsp;**Section 1 (Social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Section 2 (Social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- One Speaker** - Also a social (everyday) situation like - a tour guide explaining guidelines or telling history of something or facilities of a hotel is offering.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Section 3 (Academic) - Two or more Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Section 4 (Academic) - One Speaker** - An accademic lecture of one person
 
 #### **Tips**
 - you hear the recording only once (we have to write the answer while listening, it could be little hard)

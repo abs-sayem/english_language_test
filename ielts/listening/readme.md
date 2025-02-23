@@ -2,15 +2,16 @@
 
 ### **Listening has some Major Issues** `(to me)`:
 `You have to` -<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**1.** understand the words, tense and meaning<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**2.** focus on the question and the possible word(s) or option(s)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**3.** the intervals between answers are not equal<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**4.** write the word(s) with correct spelling, `all at the same time.`
+&nbsp;&nbsp;&nbsp;&nbsp;**-** understand the words, tense and meaning<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**-** focus on the question and the possible word(s) or option(s)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**-** the intervals between answers are not equal<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**-** write the word(s) with correct spelling,<br>
+`all at the same time.`
 
 `What our limitations are` -
-- we cannot pay attention in three different things at the same time.
-- we cannot understand all the words they have pronounced (the worst part is - when the not-understood word is the answer).
-- when we cannot find a answer for a unusual time, we panic, which affects the following questions.
+- we cannot pay attention to different things at the same time.
+- we cannot understand all the words they pronounce (the worst part is when the word we don’t understand is the answer).
+- when we cannot find an answer for an unusually long time, we panic, which affects the following questions.
 
 ### **But we have Hopes:**
 - most of the words, sentence structure will be familier.

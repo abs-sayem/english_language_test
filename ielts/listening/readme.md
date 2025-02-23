@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Section 3 (Academic) - Two or more Speakers** - An accademic discussion among 3-4 persons. Have to identify who is speaking and who is saying what.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Section 4 (Academic) - One Speaker** - An accademic lecture of one person
 
-#### **Tips**
+### **Tips**
 - you hear the recording only once (we have to write the answer while listening, it could be little hard)
 - write the answers either in CAPITAL LETTERS or in lower letters, you have to strict in one for all answers. (If use lower letters - still use Capital first letter for names, places).
 - numbers of words for each answer: `No more than two words and/or a number` - one word / one number / two words / two words and a number
@@ -61,9 +61,7 @@
     - if you miss an answer, move quickly to the next one
     - accademic language in not always paraphrased (if you have any hard word it might not be useful)
 - have to write words you hear, can't reform words
-```
-Recording > Children must be accompanied by an adult at all times.
-Question&nbsp > No children are allowed without ........ .
-Answer&nbsp;&nbsp;&nbsp; > an accompanying adult / an adult
-```
+<br>&nbsp;&nbsp;&nbsp;&nbsp;**Recording** > Children must be accompanied by an adult at all times.
+&nbsp;&nbsp;&nbsp;&nbsp;**Question**&nbsp; > No children are allowed without ........ .
+&nbsp;&nbsp;&nbsp;&nbsp;**Answer**&nbsp;&nbsp;&nbsp; > an accompanying adult / an adult
 - make sure your headphone is working properly, concentrate

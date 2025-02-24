@@ -179,4 +179,9 @@
         <td>not special, conventional, unromantic, traditional, customary, banal, trite, stale, back-dated</td>
         <td>original</td>
     </tr>
+    <tr>
+        <td>sour</td>
+        <td>having an acid taste like lemon or vinegar, tart, musty, vinegary, acetous, techy, irritable, unpleasant, horrible, moist, dusky, addle, sourish, acidulous</td>
+        <td>sweet, sweeten</td>
+    </tr>
 </table>

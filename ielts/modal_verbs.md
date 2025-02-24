@@ -20,3 +20,39 @@
 - `imagined situation` - I would travel the world if I won the lottery.
 
 **Shall**
+- `offering a suggestion` - Shall we go together? | Shall we share the ride?
+- `determination` - We shall overcome. | We shall do it by this week.
+
+**Should**
+- `advice` - You should focus on the exam now.
+- `expectation` - They should be here by now.
+
+**May**
+- `posibility` - It may rain today.
+- `asking permission` - May I come in? | May I take leave office early today? `(like - can. It's ok to use either. May is slightly more polite. May sounds better in formal situation.)`
+
+**Might**
+- `lesser possibility` - It might rain today. (have doubt)
+- `suggestion` - You might try this item.
+
+**Must**
+- `necessity` - I must finish this project.
+- `strong advice` - We must avoid the sugar.
+- `logical conclusion` - It must be his phone he left it in the meeting room yesterday.
+
+**Have to**
+- **obligation** - I have to go to the doctor's tomorrow.
+
+**Need to**
+- `express necessity` - I need to complete this. | I need to see him.
+
+**Ought to** (similar to should)
+- `obligation & advisability` - You ought to finish your work tomorrow.
+
+**Combination of Modals**
+- You shouldn't have to pay for this mistake.
+
+
+- *Use modals interchangeablly, because it ok to use / overlap modals*
+- *Use the madals that comes naturelly as long as it meaningful or not mis-meaned.*
+- *The use of modals are basically depends on yorur - meaning, mood or tone.*

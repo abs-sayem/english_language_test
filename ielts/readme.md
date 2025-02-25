@@ -60,16 +60,3 @@
 ### **Resources**
 **> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)<br>
 **> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz) | [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)
-
-
-
-both   - nowshad, amit, minhaj, roman, isazil, shubo, arman, tarek
-ব্যাটার - jahid, sarwar, rakib
-বোলার - imran, sayem
-none   - tushar, srinath, tarek (stuff), hasan, sourab, saimon, risby, anas, rabi, main
-
-
-
-wariors    - ব্যাটার (sarwar, jahid), বোলার (),      সবদিক-থেকে-গোল (arman, minhaz, isazil), দুধ-ভাত (tushar, sourab), raihan
-gladiators - ব্যাটার (nowshad, amit), বোলার (sayem), সবদিক-থেকে-গোল ()                     , দুধ-ভাত (saimoon, rabi, srinath), arafath, naeem
-titans     - ব্যাটার ()             , বোলার (imran), সবদিক-থেকে-গোল (tarek, shubo, roman,) , দুধ-ভাত (hasan, risby, main, anas)

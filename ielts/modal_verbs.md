@@ -1,7 +1,7 @@
 **Can** 
 - `express ability` - I can swim.
 - `asking permision` - Can I use your phone?
-- `offering/suggesting` - You can try this dish.
+- `offering / suggesting` - You can try this dish.
 
 **Could** 
 - `past ability` - I could swim when I was five years old.

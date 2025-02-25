@@ -9,7 +9,7 @@
 **>** Simple tenses are the top three verb tenses. - `Simple Present, Simple Past, Simple Future`.<br>
 **>** Among 12 tenses - 7 tenses cover only 3-4 % of spoken English.
 
-### **Simple Present**
+## **Simple Present**
 **>** Used to talk about - `what we do`, `what we like`, `what we believe`
 
 **Facts and Statements** - that are truth
@@ -32,7 +32,7 @@
 - Turn left at the next intersection.
 - Mix the ingredients in a bowl.
 
-### **Simple Past**
+## **Simple Past**
 **>** Used to talk about things that happened and were completed at a specific time in the past. Perfect for - `telling stories`, `sharing experiences`, `discussing things that are over and done with`.
 
 **Actions at a specific time in the past**
@@ -55,7 +55,7 @@
 - Dinosaurs roamed the Earth millions of years ago.
 - The city was the capital of the country in the 18th century.
 
-### **Simple Future**
+## **Simple Future**
 **>** Helps talking about actions or events that haven't happened yet.
 
 **Spontaneous decisions** - when we decide something on the go, like - it wansn't predetermined, the decission is taken right now and hasn't started yet.
@@ -82,7 +82,7 @@
 - You'll probably be tired after the long flight.
 - I'm sure she'll be happy with the gift.
 
-### **Present Perfect**
+## **Present Perfect**
 **>** Connects the past with the present. Use to talk about - things that started in the past but are still relevant now or when the exact time isn't important.
 
 **Unfinished states or actions that started in the past**
@@ -105,7 +105,7 @@
 - He has just arrived home.
 - I have recently started learning Spanish.
 
-### **Present Continuous**
+## **Present Continuous**
 **>** Is all about - what is happening right now or around this moment. Handy for describing temporary situations and future plans.
 
 **Describing things happening right now**

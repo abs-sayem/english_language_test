@@ -1,12 +1,12 @@
-## **IELTS Details**
+# **IELTS Details**
 
-### **Parts of IELTS Test**
+## **Parts of IELTS Test**
 1. **[Reading](https://github.com/abs-sayem/english_language_test/tree/main/ielts/reading):** (3 passages, 40 questions, 60 minutes)
 2. **[Listening](https://github.com/abs-sayem/english_language_test/tree/main/ielts/listening):** (4 sections, 40 questions, 40 minutes)
 3. **[Writing](https://github.com/abs-sayem/english_language_test/tree/main/ielts/writing):** (2 tasks, 60 minutes) (task-1: 20 minutes **+** task-2: 40 minutes)
 4. **[Speaking](https://github.com/abs-sayem/english_language_test/tree/main/ielts/speaking):** (3 parts,  < 20 minutes)
 
-### **Know the Test Well**
+## **Know the Test Well**
 - Know the inside patterns of the parts (Reading, Writing, Listening, Speaking)
 - Know the marks distribution - which sub-part contains how much marks
 - Raw score vs Band score - ?/40 : ?/9
@@ -19,7 +19,7 @@
 - Find out your strong and weak points and work on those
 - Practice, practice, practice
 
-### **Raw Score vs Band Score (Accademic)**
+## **Raw Score vs Band Score (Academic)**
 **For Reading and Listening**
 <table >
     <tr>
@@ -57,6 +57,6 @@
     <tr><td>Laxical Resource</td><td>Vocabulary</td></tr>
 </table>
 
-### **Resources**
+## **Resources**
 **> Web Site:** [IELTS Training Online](https://ieltstrainingonline.com/)<br>
 **> YT Channel:** [IELTS Liz](https://www.youtube.com/@ieltsliz) | [IELTS Advance](https://www.youtube.com/@Ieltsadvantage)

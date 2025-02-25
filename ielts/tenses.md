@@ -1,16 +1,16 @@
-> 5 tenses covers almost 96% of our total Egnlish uses.
+**>** 5 tenses covers almost 96% of our total Egnlish uses.
 - **Simple Present** - 58%
 - **Simple Past** - 19%
 - **Simple Future** - 8-9%
 - **Present Prefect** - 6%
 - **Present Continuous** - 5%
 
-> Simple present accounts for more than half of the verbs used in English Speech.<br>
-> Simple tenses are the top three verb tenses. - `Simple Present, Simple Past, Simple Future`.<br>
-> Among 12 tenses - 7 tenses cover only 3-4 % of spoken English.
+**>** Simple present accounts for more than half of the verbs used in English Speech.<br>
+**>** Simple tenses are the top three verb tenses. - `Simple Present, Simple Past, Simple Future`.<br>
+**>** Among 12 tenses - 7 tenses cover only 3-4 % of spoken English.
 
 ### **Simple Present**
-Used to talk about - `what we do`, `what we like`, `what we believe`
+**>** Used to talk about - `what we do`, `what we like`, `what we believe`
 
 **Facts and Statements** - that are truth
 - The Earth orbits the Sun.
@@ -33,7 +33,7 @@ Used to talk about - `what we do`, `what we like`, `what we believe`
 - Mix the ingredients in a bowl.
 
 ### **Simple Past**
-Used to talk about things that happened and were completed at a specific time in the past. Perfect for - `telling stories`, `sharing experiences`, `discussing things that are over and done with`.
+**>** Used to talk about things that happened and were completed at a specific time in the past. Perfect for - `telling stories`, `sharing experiences`, `discussing things that are over and done with`.
 
 **Actions at a specific time in the past**
 - I visited my grandmother last week.
@@ -56,7 +56,7 @@ Used to talk about things that happened and were completed at a specific time in
 - The city was the capital of the country in the 18th century.
 
 ### **Simple Future**
-Helps talking about actions or events that haven't happened yet.
+**>** Helps talking about actions or events that haven't happened yet.
 
 **Spontaneous decisions** - when we decide something on the go, like - it wansn't predetermined, the decission is taken right now and hasn't started yet.
 - I will grab a coffee right now.
@@ -83,7 +83,7 @@ Helps talking about actions or events that haven't happened yet.
 - I'm sure she'll be happy with the gift.
 
 ### **Present Perfect**
-Connects the past with the present. Use to talk about - things that started in the past but are still relevant now or when the exact time isn't important.
+**>** Connects the past with the present. Use to talk about - things that started in the past but are still relevant now or when the exact time isn't important.
 
 **Unfinished states or actions that started in the past**
 - I have lived in this city for five years.
@@ -106,7 +106,7 @@ Connects the past with the present. Use to talk about - things that started in t
 - I have recently started learning Spanish.
 
 ### **Present Continuous**
-Is all about - what is happening right now or around this moment. Handy for describing temporary situations and future plans.
+**>** Is all about - what is happening right now or around this moment. Handy for describing temporary situations and future plans.
 
 **Describing things happening right now**
 - I am readng a book right now.

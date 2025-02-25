@@ -53,6 +53,6 @@
 - You shouldn't have to pay for this mistake.
 
 
-- *Use modals interchangeablly, because it ok to use / overlap modals*
-- *Use the madals that comes naturelly as long as it meaningful or not mis-meaned.*
-- *The use of modals are basically depends on yorur - meaning, mood or tone.*
+**>** *Use modals interchangeablly, because it ok to use / overlap modals*<br>
+**>** *Use the madals that comes naturelly as long as it meaningful or not mis-meaned.*<br>
+**>** *The use of modals are basically depends on yorur - meaning, mood or tone.*

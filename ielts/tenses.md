@@ -11,10 +11,23 @@
 
 ## **Simple Present**
 **>** Used to talk about - `what we do`, `what we like`, `what we believe`
+- If we don't try, we can never improve.
+- When you listen to English, your ears get used to the sounds.
+- You hear how words are pronounced and you learn new phrases without even realizing it.
+- One of the best ways to learn English is by listening.
+- It's like listening to music.
+- Another way to get better at speaking is by practicing with friends, or even by yourself.
+- Sometimes I talk to myself in English.
+- It may feel silly, but it helps.
 
 **Facts and Statements** - that are truth
 - The Earth orbits the Sun.
 - Water boils at 100 degrees Celsius.
+- But remember, making mistakes is part of learning.
+- Talking in English is like learning to swim.
+- The more you practice, the more comfortable you become.
+- The more you listen, the more you understand.
+- The more you talk, the better you get.
 
 **Current Situation** - statements that are true in the present
 - She is at home right now.
@@ -38,14 +51,19 @@
 **Actions at a specific time in the past**
 - I visited my grandmother last week.
 - They watched a movie last night.
+- But I never gave up.
 
 **Narrating a series of past events**
 - He woke up, brushed his teeth, and went to work.
 - She finished her homework, packed her bag, and left for school.
+- English opened doors, helped me make new friends, and inspired me to dream bigger.
+- I didn't know many words and my accent was different.
+- I fell many times, but I got up again.
 
 **Habitual or repeated actions in the past**
 - When I was a child, I played soccer every day.
 - We always ate dinner together at 7 pm.
+- When I first started learning English, I was scared.
 
 **Past states or conditions**
 - He was very shy when he was younger.

@@ -4,8 +4,8 @@
 **`You have to`** -
 - understand the words, tense and meaning
 - focus on the question and the possible word(s) or option(s)
-- the intervals between answers are not equal
 - write the word(s) with correct spelling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`all at the same time.`
+- also, the intervals between answers are not equal
 
 **`What our limitations are`** -
 - we cannot pay attention to different things at the same time.
@@ -16,6 +16,10 @@
 - most of the words and sentence structures will be familiar.
 - answers will come sequentially.
 - the sentences containing the answer word(s) will be grammatically correct, so we can verify our answers.
+
+### **My performance so far:**
+- confident on Part-01 and Part-04 (writing words) - (6+8, 9+9, 6+4, 7+9)
+- **facing trouble** on Part-02 and Part-03 (choosing letters) - (8+6, 8+7, 5+3, 8+6) 
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **Section 1 (Social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>

@@ -19,7 +19,15 @@
 
 ### **My performance so far:**
 - confident on Part-01 and Part-04 (writing words) - (6+8, 9+9, 6+4, 7+9)
-- **facing trouble** on Part-02 and Part-03 (choosing letters) - (8+6, 8+7, 5+3, 8+6) 
+- **facing trouble** on Part-02 and Part-03 (choosing letters) - (8+6, 8+7, 5+3, 8+6)
+
+### **Advise from Lilie:**
+- listening test at a time also a reading test. because those who are better at reading can finish the reading of the questions and also those who are good at recognizing what is expected in the question have a greater chance of having better marks.
+- in part-2 and part-3 (multiple choice questions), there are lots of information to read, we have to read the questions and options as well. Not knowing the questions and options very well leads us to wrong answers. For this, she always try to read the questions in part 2 & 3 twice. **How she does so!** -
+    - when the listening test stars, some instructions is provided for couple of seconds before started part-1. By this time, she reads some the part-2 questions as well as the options, because part-1 is easier to her.
+    - she advices - while practicing at home we need to experiment and find a reading pace that works for us, we need to train ourselves to read faster, we also need to train our memory, try remembering the information while reading, practice it more and more, practice makes improvements.
+    - as soom as the instructor says - you have some time to read the questions 1-7, she return to part 1. Before going to the answer spot, the talk in part-1 also have some contexts, during this time she goes through the questions 1-7. She only focus on the blocks of answer to utilize the time.
+    - as soom as she completes part-1, before ending of the talk, she immediately move to part-3, and start reading the questions and options, and follow the same as part-1, and whenever she hears- now you have some time to read questions 11-15, she moves to part-2, by this time she already has read some of the part-3 questions.
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **Section 1 (Social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>

@@ -28,6 +28,9 @@
     - she advices - while practicing at home we need to experiment and find a reading pace that works for us, we need to train ourselves to read faster, we also need to train our memory, try remembering the information while reading, practice it more and more, practice makes improvements.
     - as soom as the instructor says - you have some time to read the questions 1-7, she return to part 1. Before going to the answer spot, the talk in part-1 also have some contexts, during this time she goes through the questions 1-7. She only focus on the blocks of answer to utilize the time.
     - as soom as she completes part-1, before ending of the talk, she immediately move to part-3, and start reading the questions and options, and follow the same as part-1, and whenever she hears- now you have some time to read questions 11-15, she moves to part-2, by this time she already has read some of the part-3 questions.
+    - while listening, we basically try to find the answer instead of focusing what the speaker is saying.
+    - she used to hear [Russell Brunson](https://www.youtube.com/@russellbrunson) a lot which helps her listening. Listening to difficult topics and natiove speakers who speak fast helped her improve her listening skills a lot.
+    - besides practicing ielts previous test, she also listened to a lot of podcasts, specially news podcasts, also she improved her reading skills. she trained herself to read fast and remember information better. 
 
 ### **4 Sections - 40 Questions - 40 minutes `(30 minutes to hear audio + 10 minutes ot transfer answers)`**
 **Section 1 (Social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Two Speakers** - A social (everyday) situation like - booking something in call.<br>

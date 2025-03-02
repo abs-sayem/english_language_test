@@ -3,7 +3,7 @@
 <table>
     <tr>
         <th>Phrases</th>
-        <th>meaning</th>
+        <th>Meaning</th>
         <th>Example Uses</th>
     </tr>
     <tr>

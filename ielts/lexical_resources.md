@@ -184,4 +184,9 @@
         <td>having an acid taste like lemon or vinegar, tart, musty, vinegary, acetous, techy, irritable, unpleasant, horrible, moist, dusky, addle, sourish, acidulous</td>
         <td>sweet, sweeten</td>
     </tr>
+    <tr>
+        <td>persisted</td>
+        <td>continue firmly to an opinion or in an difficulty</td>
+        <td></td>
+    </tr>
 </table>

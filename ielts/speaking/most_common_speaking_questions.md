@@ -203,6 +203,14 @@ Can you sing?<br>
 Did you learn music at school?<br>
 If you could learn a musical instrument, what would it be?<br>
 Do you think music is important?
+
+#### **Neighborus and Neighbourhood**
+Do you like your neighbours?<br>
+Are neighbours usually close to each other in your country?<br>
+What is your neighbourhood like?<br>
+Do you think your neighbourhood is a good place for children?<br>
+How could your neighbourhood be improved?<br>
+Do you think it is important to have a good relationship with your neighbours?
 ***
 **Can you tell me your full name, please?**<br>
 **>** Yes, My name is Md. Abu Bakar Siddiq Sayem. You can call me Sayem.
